@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chacoberlin
+- 👋 Hi, I’m @Chacoberlin. Web designer + Social Media Marketer in Berlin. 
 - 👀 I’m interested in digital marketing
 - 🌱 I’m currently learning SEO/SEA
 - 💞️ I’m looking to collaborate on online shop project
