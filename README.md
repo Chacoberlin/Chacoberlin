@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chacoberlin. Web designer + Social Media Marketer in Berlin. 
-- 👀 I’m interested in digital marketing and creating WordPress Templates
-- 💞️ I’m looking to collaborate on online shop project
+- 👀 I’m interested in creating WordPress Templates and developing apps
+- 💞️ I’m looking to collaborate on app development 
 - 📫 How to reach me https://chacoberlin.de
 
 <!---
